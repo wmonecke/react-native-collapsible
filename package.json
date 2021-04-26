@@ -41,7 +41,8 @@
     "typescript": "^3.5.3"
   },
   "dependencies": {
-    "prop-types": "^15.6.2"
+    "prop-types": "^15.6.2",
+    "react-native-reanimated": "^1.13.0",
   },
   "peerDependencies": {
     "react": "*",
